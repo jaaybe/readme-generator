@@ -1,11 +1,10 @@
 
-# TEST
+# README Generator
 
 ## Description
-
-new test new test new test  
+Lets you quickly and easily generate a professional level README file by using your command-line. 
 Technologies used:
-HTML,CSS,JavaScript,3rd Party API,JS Node,SQL
+JavaScript,JS Node
 
 
 ## Table of Contents
@@ -21,39 +20,39 @@ HTML,CSS,JavaScript,3rd Party API,JS Node,SQL
 
 ## Installation
 
-install it the best way you know how 
+Clone and or download the application from the Github repository, download all necessary modules, and run the program from your command line.  Please make sure to run this application once without the root folder where index.js is located.
 
 
 ## Usage 
 
-use it well 
+This application allows the project creator to devote more time working on the project by answering a few questions via the command-line.  
 
 
 ## Credits
 
-JB and friends
+JB Blot (student), Jaired Jawed (tutor)
 
 
 ## License
 
-Creative Commons Zero v1.0 Universal
+MIT License
 
-![GitHub license](https://img.shields.io/badge/license-Creative-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## Contributing
 
-none. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+Fully open code.  Anyone is welcome to change or use at will.. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
 
 
 ## Tests
 
-nope
+None at this early developement time. 
 
        
 ## Questions
 
-If you have any questions, please email JB Blot at: jb@m.com
+If you have any questions, please email JB Blot at: jb@motionmusic.us
 
 If you'd like to clone or explore the app repository, it is available on GitHub:
 https://github.com/jaaybe/
