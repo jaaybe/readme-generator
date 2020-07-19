@@ -1,10 +1,15 @@
 
 # README Generator
 
+![screenshot](./img/screenshot.png)
+
 ## Description
-Lets you quickly and easily generate a professional level README file by using your command-line. 
+This application quickly and easily generates a README file by using the command-line 
 Technologies used:
 JavaScript,JS Node
+
+### Walkthrough Video:
+https://drive.google.com/file/d/1EsW6EFqm_jwzr3zhAJti0zZUwDPT3olz/view
 
 
 ## Table of Contents
@@ -20,17 +25,17 @@ JavaScript,JS Node
 
 ## Installation
 
-Clone and or download the application from the Github repository, download all necessary modules, and run the program from your command line.  Please make sure to run this application once without the root folder where index.js is located.
+Please clone this application from the Github Repository.  Please make sure to have all necesarry node modules installed.
 
 
 ## Usage 
 
-This application allows the project creator to devote more time working on the project by answering a few questions via the command-line.  
+This application allows the project creator to devote more time working on the project by creating a professional level README file.   
 
 
 ## Credits
 
-JB Blot (student), Jaired Jawed (tutor)
+JB Blot, Jaired Jawed (tutor)
 
 
 ## License
@@ -42,12 +47,12 @@ MIT License
 
 ## Contributing
 
-Fully open code.  Anyone is welcome to change or use at will.. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+Fully Open Source.  No special Instructions.. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
 
 
 ## Tests
 
-None at this early developement time. 
+No testing measures set yet at this early level. 
 
        
 ## Questions
