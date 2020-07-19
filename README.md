@@ -35,7 +35,7 @@ This application allows the project creator to devote more time working on the p
 
 ## Credits
 
-JB Blot, Jaired Jawed (tutor)
+JB Blot, Jaired Jawed (tutor), Xandromus (source code for Challenge)
 
 
 ## License
